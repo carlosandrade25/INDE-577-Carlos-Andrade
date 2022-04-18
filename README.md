@@ -8,24 +8,21 @@ The following are the algorithms that have been developed and posted on this Git
 - Gradient descent
 ### Supervised Learning:
   
-  The K-Nearest Neighbors
-  Linear Regression
-  Perceptron
-  Logistic Regression
-  Multilayer Perceptron
-  Decision Trees
-  Neural Nets I and Gradient Descent
-  Ensemble Learning & Random Forest
+- The K-Nearest Neighbors
+- Linear Regression
+- Perceptron
+- Logistic Regression
+- Multilayer Perceptron
+- Decision Trees
+- Neural Nets I and Gradient Descent
+- Ensemble Learning & Random Forest
   
 ### Unsupervised Learning
   The K-Means Clustering
-
-
-The database used for this project is the evaluation of the cup quality of Arabica coffee from 15 different countries, including Colombia, one of the largest exporters of high-quality Arabica coffee worldwide, and my country of origin. The idea is to use all these algorithms to be able to identify Colombian coffee based on cup quality and environmental parameters such as altitude above sea level.
-
+  
 # Data base
 
-The raw data contain reviews of 1312 arabica coffee beans from the Coffee Quality Institute's trained reviewers. The Quality Measures includes:
+The database used for this project is the evaluation of the cup quality of Arabica coffee from 15 different countries, including Colombia, one of the largest exporters of high-quality Arabica coffee worldwide, and my country of origin. The idea is to use all these algorithms to be able to identify Colombian coffee based on cup quality and environmental parameters such as altitude above sea level. The raw data contain reviews of 1312 arabica coffee beans from the Coffee Quality Institute's trained reviewers. The Quality Measures includes:
 
 - Aroma
 - Flavor
