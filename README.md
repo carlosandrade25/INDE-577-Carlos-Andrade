@@ -5,6 +5,20 @@ This repository is created by Carlos A. Andrade, a Colombian graduate student of
 This curse provides the mathematical concepts, tools, and logic to implement programs capable of learning and extracting key information from data. It covers a large number of techniques, from the simplest and most commonly algorithms, such as K-Nearest Neighbors and Linear Regression, to some of the Deep Learning techniques. 
 
 The following are the algorithms that have been developed and posted on this Github:
+- Gradient descent
+### Supervised Learning:
+  
+  The K-Nearest Neighbors
+  Linear Regression
+  Perceptron
+  Logistic Regression
+  Multilayer Perceptron
+  Decision Trees
+  Neural Nets I and Gradient Descent
+  Ensemble Learning & Random Forest
+  
+### Unsupervised Learning
+  The K-Means Clustering
 
 
 The database used for this project is the evaluation of the cup quality of Arabica coffee from 15 different countries, including Colombia, one of the largest exporters of high-quality Arabica coffee worldwide, and my country of origin. The idea is to use all these algorithms to be able to identify Colombian coffee based on cup quality and environmental parameters such as altitude above sea level.
