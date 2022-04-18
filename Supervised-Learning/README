@@ -1,1 +1,8 @@
 
+Supervised learning, as the name indicates, has the presence of a supervisor as a teacher. Basically supervised learning is when we teach or train the 
+machine using data that is well labeled. Which means some data is already tagged with the correct answer. After that, the machine is provided with a new 
+set of examples(data) so that the supervised learning algorithm analyses the training data(set of training examples) and produces a correct outcome from 
+labeled data. 
+
+For instance, suppose you are given a basket filled with different kinds of fruits. Now the first step is to train the machine with all different fruits 
+one by one like this: 
