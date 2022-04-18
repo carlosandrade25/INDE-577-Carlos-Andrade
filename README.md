@@ -52,7 +52,7 @@ The farm metadata includes:
 
 # Brief History of Coffee in the world, and Colombia
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Ffood%2Fcoffee&psig=AOvVaw31nx_MDlBciVZoLpN9TpDW&ust=1650385134685000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOjTn--BnvcCFQAAAAAdAAAAABAJ
+<img src="C:\Users\Windows 10\Desktop\RICE\SECOND SEMESTER\INDE 577 MACHINE LEARNING\Project" width="128"/>
 
 Coffee came out from Africa (Ethiopia), where was initially consumed in infusions or by chewing the leaves of the coffee plant, but it was the Arabians who were responsible for its expansion, arriving in Turkey in 1544 and them moving around middle east and eventually worldwide. In the 17th century, coffee was introduced to Europe through the port of Venice (Italy) and expanded across the continent to finally reach South America by the 18th century. It believes that the Dutch were responsible for this expansion across new continents, who didn’t want to depend on the Arabians. This is how, at the beginning of the 18th century, the Netherlands came to be the production leaders of the world.  One of the theories about how coffee arrived in South America is that Dutch introduced it through what is known today as Suriname at the beginning of the 18th century, exported it to Colombia and Brazil. By the 19th century, it had become of great importance in farming which was also influenced by the fact that by the middle of 19th century, a disease called coffee rust attacked the crops of Ceylon, (Sri Lanka), who at that time were the main coffee producers.
 
