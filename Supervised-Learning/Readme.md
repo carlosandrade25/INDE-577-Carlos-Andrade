@@ -8,7 +8,7 @@ labeled data.
 For instance, suppose you are given a basket filled with different kinds of fruits. Now the first step is to train the machine with all different fruits 
 one by one like this: 
 
-![image](https://user-images.githubusercontent.com/97799358/163894955-56e474b0-c419-478a-82d8-fc8a9b074271.png|width=200)
+![image](https://user-images.githubusercontent.com/97799358/163894955-56e474b0-c419-478a-82d8-fc8a9b074271.png=250x250)
 
 If the shape of the object is rounded and has a depression at the top, is red in color, then it will be labeled as –Apple.
 If the shape of the object is a long curving cylinder having Green-Yellow color, then it will be labeled as –Banana. 
