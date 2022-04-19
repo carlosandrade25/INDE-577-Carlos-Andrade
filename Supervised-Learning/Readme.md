@@ -20,13 +20,13 @@ Supervised learning is classified into two categories of algorithms:
 - Classification: A classification problem is when the output variable is a category, such as “Red” or “blue” or “disease” and “no disease”.
 - Regression: A regression problem is when the output variable is a real value, such as “dollars” or “weight”.
 
-Advantages:-
+Advantages:
 
 Supervised learning allows collecting data and produces data output from previous experiences.
 Helps to optimize performance criteria with the help of experience.
 Supervised machine learning helps to solve various types of real-world computation problems.
 
-Disadvantages:-
+Disadvantages:
 
 Classifying big data can be challenging.
 Training for supervised learning needs a lot of computation time. So, it requires a lot of time.
