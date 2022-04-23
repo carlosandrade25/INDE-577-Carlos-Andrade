@@ -8,11 +8,11 @@ This curse provides the mathematical concepts, tools, and logic to implement pro
 
 The following are the algorithms that have been developed and posted on this Github:
 
-### [Initial Analysis](https://github.com/carlosandrade25/INDE-577-Carlos-Andrade/tree/main/Initial_analysis)
+### [Initial Analysis:](https://github.com/carlosandrade25/INDE-577-Carlos-Andrade/tree/main/Initial_analysis)
 - Gradient descent
 - Data pre-processing and PCA Analysis
 
-### Supervised Learning:
+### [Supervised Learning:](https://github.com/carlosandrade25/INDE-577-Carlos-Andrade/tree/main/Supervised-Learning)
 - The K-Nearest Neighbors
 - Linear Regression
 - Perceptron
@@ -20,11 +20,10 @@ The following are the algorithms that have been developed and posted on this Git
 - Decision Trees and Random Forest
 - Neural Networks
 
-  
-### Unsupervised Learning
+### [Unsupervised Learning:](https://github.com/carlosandrade25/INDE-577-Carlos-Andrade/tree/main/Unsupervised_learning)
 - The K-Means Clustering
   
-# Data base
+## Data base
 
 The database used for this project is the evaluation of the cup quality of Arabica coffee from 15 different countries, including Colombia, one of the largest exporters of high-quality Arabica coffee worldwide, and my country of origin. The main motivation was learning new tools to analyze data coming for this higly important economic sector for my country. The general idea is to use all these algorithms to be able to identify Colombian coffee based on cup quality and environmental parameters such as altitude above sea level. The raw data contain reviews of 1312 arabica coffee beans from the Coffee Quality Institute's trained reviewers. The Quality Measures includes:
 
