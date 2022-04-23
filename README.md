@@ -8,7 +8,7 @@ This curse provides the mathematical concepts, tools, and logic to implement pro
 
 The following are the algorithms that have been developed and posted on this Github:
 
-### Initial Analysis
+### [Initial Analysis](https://github.com/carlosandrade25/INDE-577-Carlos-Andrade/tree/main/Initial_analysis)
 - Gradient descent
 - Data pre-processing and PCA Analysis
 
