@@ -35,12 +35,12 @@ Training for supervised learning needs a lot of computation time. So, it require
                                                                                         
 In this par tof the project, we will work with the following algorithms:
 
--The K-Nearest Neighbors
--Linear Regression
--Perceptron
--Logistic Regression
--Decision Trees and Random Forest
--Neural Networks
+- The K-Nearest Neighbors
+- Linear Regression
+- Perceptron
+- Logistic Regression
+- Decision Trees and Random Forest
+- Neural Networks
 
 Each file will describe the basic components of the algorith, the specific task and some cool fact about coffee that motivates that analysis. 
 
