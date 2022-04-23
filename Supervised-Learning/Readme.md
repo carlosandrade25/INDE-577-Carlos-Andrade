@@ -31,7 +31,7 @@ Disadvantages:
 Classifying big data can be challenging.
 Training for supervised learning needs a lot of computation time. So, it requires a lot of time.
 
-                                                                                        Source: https://www.geeksforgeeks.org/supervised-unsupervised-learning/
+                                                                    Source: https://www.geeksforgeeks.org/supervised-unsupervised-learning/
                                                                                         
 In this par tof the project, we will work with the following algorithms:
 
