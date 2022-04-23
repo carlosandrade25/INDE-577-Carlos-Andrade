@@ -1,6 +1,4 @@
-<p align="center">
-    # DATA SCIENCE AND MACHINE LEARNING INDE 577
-</p>
+# DATA SCIENCE AND MACHINE LEARNING INDE 577
 
 ![image](https://user-images.githubusercontent.com/97799358/164915972-62e1ce46-76c8-4e27-a981-7c8902ac6dbc.png)
 
