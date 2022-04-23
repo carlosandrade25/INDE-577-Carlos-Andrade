@@ -5,20 +5,22 @@ This repository is created by Carlos A. Andrade, a Colombian graduate student of
 This curse provides the mathematical concepts, tools, and logic to implement programs capable of learning and extracting key information from data. It covers a large number of techniques, from the simplest and most commonly algorithms, such as K-Nearest Neighbors and Linear Regression, to some of the Deep Learning techniques. 
 
 The following are the algorithms that have been developed and posted on this Github:
+
+### Initial Analysis
 - Gradient descent
+- Data pre-processing and PCA Analysis
+- 
 ### Supervised Learning:
-  
 - The K-Nearest Neighbors
 - Linear Regression
 - Perceptron
 - Logistic Regression
-- Multilayer Perceptron
-- Decision Trees
-- Neural Nets I and Gradient Descent
-- Ensemble Learning & Random Forest
+- Decision Trees and Random Forest
+- Neural Networks
+
   
 ### Unsupervised Learning
-  The K-Means Clustering
+- The K-Means Clustering
   
 # Data base
 
