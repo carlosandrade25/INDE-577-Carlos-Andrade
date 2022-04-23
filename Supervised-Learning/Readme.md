@@ -1,7 +1,7 @@
 ## Supervised learning
 
 Supervised learning, as the name indicates, has the presence of a supervisor as a teacher. Basically supervised learning is when we teach or train the 
-machine using data that is well labeled. Which means some data is already tagged with the correct answer. After that, the machine is provided with a new 
+machine using data that is well labeled, shich means some data is already tagged with the correct answer. After that, the machine is provided with a new 
 set of examples(data) so that the supervised learning algorithm analyses the training data(set of training examples) and produces a correct outcome from 
 labeled data. 
 
@@ -30,4 +30,6 @@ Disadvantages:
 
 Classifying big data can be challenging.
 Training for supervised learning needs a lot of computation time. So, it requires a lot of time.
+
+                                                                                        Source: https://www.geeksforgeeks.org/supervised-unsupervised-learning/
 
