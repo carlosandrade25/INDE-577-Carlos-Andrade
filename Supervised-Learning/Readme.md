@@ -42,5 +42,5 @@ In this par tof the project, we will work with the following algorithms:
 - Decision Trees and Random Forest
 - Neural Networks
 
-Each file will describe the basic components of the algorith, the specific task and some cool fact about coffee that motivates that analysis. 
+Each file will describe the basic components of the algorithm, the specific task and some cool fact about coffee that motivates that analysis. 
 
