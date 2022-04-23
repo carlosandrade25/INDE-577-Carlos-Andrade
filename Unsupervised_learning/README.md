@@ -17,6 +17,8 @@ Clustering: A clustering problem is where you want to discover the inherent grou
 
 Association: An association rule learning problem is where you want to discover rules that describe large portions of your data, such as people that buy X also tend to buy Y.
 
+                                                   Source: https://www.geeksforgeeks.org/supervised-unsupervised-learning/
+
 ## Projects
 
 For unsupervised machine learning, we will work on k means clustering alogrith (In adition, PCA analysis which is also an unsupevise algorithm, is used in the project Data preprocesing and PCA Analysis). The file will describe the basic components of the algorithm, the specific task and some cool fact about coffee that motivates that analysis.
