@@ -63,6 +63,6 @@ Coffee in Colombia has about 200 years of history since the Jesuits brought it t
 
 By the end of 19th century, production had increased from 60,000 bags to more than 600,000 bags –most of this production came from the farms of the largest landowners – and at the beginning of the 20th century, coffee was already the main foreign exchange export product in Colombia. The transition from the 19th to the 20th century brought a great fall in the international market prices and therefore a crisis for the landowners. This crisis favored the small producers that were growing, and the Colombian west zone became the leader in coffee development. In 1927 the Federación Nacional de Cafeteros was created, which was responsible for aiding and representing the coffee growers to ensure their rights. In addition, in 1938 the Research Centre, CENICAFE was born, it was responsible for many achievements like the “Castillo” variety, resistant to diseases such as rust and one of the main coffee varieties that is grown in Colombia today. In 1959 two important events occurred: The Character of Juan Valdez was born, and the office of Café de Colombia was opened in Tokyo, making Japan today the second consumer of Colombian coffee in the world. 
 
-                                                                                                                   Source: Federacion Colombiana de Cafeteros
+                                                                                                   Source: Federacion Colombiana de Cafeteros
 
 
