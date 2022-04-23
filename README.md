@@ -26,7 +26,7 @@ The following are the algorithms that have been developed and posted on this Git
   
 # Data base
 
-The database used for this project is the evaluation of the cup quality of Arabica coffee from 15 different countries, including Colombia, one of the largest exporters of high-quality Arabica coffee worldwide, and my country of origin. The main motivation was getting new tools to analyis data coming for this higly important economic sector for my country. The idea is to use all these algorithms to be able to identify Colombian coffee based on cup quality and environmental parameters such as altitude above sea level. The raw data contain reviews of 1312 arabica coffee beans from the Coffee Quality Institute's trained reviewers. The Quality Measures includes:
+The database used for this project is the evaluation of the cup quality of Arabica coffee from 15 different countries, including Colombia, one of the largest exporters of high-quality Arabica coffee worldwide, and my country of origin. The main motivation was learning new tools to analyze data coming for this higly important economic sector for my country. The general idea is to use all these algorithms to be able to identify Colombian coffee based on cup quality and environmental parameters such as altitude above sea level. The raw data contain reviews of 1312 arabica coffee beans from the Coffee Quality Institute's trained reviewers. The Quality Measures includes:
 
 - Aroma
 - Flavor
