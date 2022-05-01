@@ -1,7 +1,7 @@
 ## Supervised learning
 
 Supervised learning, as the name indicates, has the presence of a supervisor as a teacher. Basically supervised learning is when we teach or train the 
-machine using data that is well labeled, shich means some data is already tagged with the correct answer. After that, the machine is provided with a new 
+machine using data that is well labeled, which means some data is already tagged with the correct answer. After that, the machine is provided with a new 
 set of examples(data) so that the supervised learning algorithm analyses the training data(set of training examples) and produces a correct outcome from 
 labeled data. 
 
@@ -12,8 +12,8 @@ one by one like this:
   <img width="300" height="300" src="https://user-images.githubusercontent.com/97799358/163894955-56e474b0-c419-478a-82d8-fc8a9b074271.png">
 </p>
 
-If the shape of the object is rounded and has a depression at the top, is red in color, then it will be labeled as –Apple.
-If the shape of the object is a long curving cylinder having Green-Yellow color, then it will be labeled as –Banana. 
+If the shape of the object is rounded and has a depression at the top, is red in color, then it will be labeled as 'Apple'.
+If the shape of the object is a long curving cylinder having Green-Yellow color, then it will be labeled as 'Banana'. 
 
 Supervised learning is classified into two categories of algorithms: 
  
@@ -33,7 +33,7 @@ Training for supervised learning needs a lot of computation time. So, it require
 
                                                             Source: https://www.geeksforgeeks.org/supervised-unsupervised-learning/
                                                                                         
-In this par tof the project, we will work with the following algorithms:
+In this part of the project, we will work with the following algorithms:
 
 - The K-Nearest Neighbors
 - Linear Regression
