@@ -14,4 +14,4 @@ Source: https://monkeylearn.com/blog/data-preprocessing/
 
 ### Project
 
-The project called Data preprocesing and PCA Analysis aims to analize, filer, remove undisered elements and find the best elemnts to profrom the follorwed supervise and unsupervice machine learning algorith. Thats why is super important and the first step of the whole history of this project. In addiion, gradiente descent algorithm, which is a very important capstone of machine learning, is developed from scratch and implement for some mathematic functions. 
+The project called Data preprocesing and PCA Analysis aims to analize, filter, remove undisered elements and find the best elements to perform the follorwed supervised and unsuperviced machine learning algorithms. Thats why is super important and the first step of the whole history of this project. In addiion, gradiente descent algorithm, which is a very important capstone of machine learning, is developed from scratch and implement for some mathematic functions. 
